@@ -1,0 +1,2 @@
+Code for the scraping of the information from Rospotrebnadzor (Federal Service for the Oversight of Consumer Protection and Welfare) website (http://zpp.rospotrebnadzor.ru/Forum/Appeals/). 
+It has an undocumented API. The idea of the steps presented in the code is to automate the process of information gathering from all the pagination pages (more general information) and the specific pages that relate to particular appeal. 
